@@ -1,0 +1,9 @@
+Poland,Phone,iPhone,8,5700,5,PLN
+Poland,Phone,iPhone,11,6700,PLN
+Poland,Computer,HP,Elitebook,13700,PLN
+Sweden,Phone,Motorola,Razr,3700,SEK
+Sweden,Phone,iPhone,X,8000,SEK
+Sweden,Computer,HP,Elitebook,17700,SEK
+USA,Computer,Lenovo,Yoga 530,1030,USD
+USA,Computer,ASUS,W234,1200,USD
+USA,Computer,Lenovo,Yoga 730,1540,USD
